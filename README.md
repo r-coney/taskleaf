@@ -1,24 +1,29 @@
-# README
+# Taskleaf
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+参考書「*現場で使えるRuby on Rails5速習実践ガイド*」を　参考に作成したWebアプリケーションです。
 
-Things you may want to cover:
+https://taskleaf-21.herokuapp.com/(URL)
 
-* Ruby version
 
-* System dependencies
+## 概要
+To doアプリのようにタスクを作成し、管理できます。
 
-* Configuration
+一般ユーザーでもアカウントを作成できるように変更しました。
 
-* Database creation
+##　使用技術
+・Ruby　3.0.2
 
-* Database initialization
+・Ruby on Rails 6.0.4.1
 
-* How to run the test suite
+・PostgreSQL 14.1
 
-* Services (job queues, cache servers, search engines, etc.)
+・Puma
 
-* Deployment instructions
+・Rspec
 
-* ...
+
+
+
+
+
+
